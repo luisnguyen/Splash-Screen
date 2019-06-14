@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="fontsdefault">
+        <item>SANS</item>
+        <item>MONOSPACE</item>
+        <item>NORMAL</item>
+        <item>SERIF</item>
+    </array>
+</resources>
